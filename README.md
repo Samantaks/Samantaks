@@ -1,6 +1,6 @@
 
 ## About Me:
-<div> :sunflower: I'm Junior Developer! </div>
+<div> :sunflower: I'm a Web Developer! </div>
 <div> :taurus: Brazilian, </div>
 <div> :rainbow: Lactose intolerant, </div>
 <div> :books: And currently learning everything! </div>
